@@ -1,5 +1,7 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YusepXD?style=flat-square&logo=github)](https://github.com/YusepXD)<br> [![Facebook](https://img.shields.io/badge/Facebook-YusepGanz-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-YusepXD-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6281383127594)
 
+#### CARA INSTALL SCRIPT:
+ download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
+ ```
 
 
 <h1 align="center"> [Installing]</h1>
