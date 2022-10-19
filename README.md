@@ -9,9 +9,9 @@
 - pip install requests
 - pip install mechanize
 - pip install bs4
-- rm -rf FREE
-- git clone https://github.com/Ahg-XD/FARIS
-- cd FARIS
+- rm -rf FARIS-XD
+- git clone https://github.com/Ahg-XD/FARIS-XD
+- cd FARIS-XD
 - python ijo.py
      
 
