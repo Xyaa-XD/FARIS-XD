@@ -12,6 +12,7 @@
 - rm -rf FARIS-XD
 - git clone https://github.com/Ahg-XD/FARIS-XD
 - cd FARIS-XD
+- git pull
 - python ijo.py
      
 
